@@ -171,6 +171,7 @@ return [
         Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
         Barryvdh\Debugbar\ServiceProvider::class,
         Acacha\AdminLTETemplateLaravel\Providers\AdminLTETemplateServiceProvider::class,
+        Acacha\LaravelSocial\Providers\LaravelSocialServiceProvider::class,
         #llum_providers
 
         /*
